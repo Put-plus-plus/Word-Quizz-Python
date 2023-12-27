@@ -1,1 +1,1 @@
-# Study-Flashcards-Python
+# Scientific-Foreign-Language-Study-Flashcards-Python
