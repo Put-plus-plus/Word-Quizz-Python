@@ -1,7 +1,4 @@
 # Scientific Foreign Language Study Flashcards Python
-
-Just testing stuff out
-
 ## Description 
 
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
@@ -12,5 +9,5 @@ remember to add the link to the GIF, which I must also make sure to add to the r
 * Pandas, random, tkinter, time, googletrans, transliterate, newspaper, numpy, os, logging
 
 ## Execution
-
 Just testing stuff out
+is this how you do `code`
