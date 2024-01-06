@@ -1,6 +1,7 @@
-# Scientific Foreign Language Study Flashcards Python
 ## Description 
+Just testing out
 
+## Animation
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
 
 ## Dependencies
