@@ -1,4 +1,4 @@
-# Scientific-Foreign-Language-Study-Flashcards-Python
+# Scientific Foreign Language Study Flashcards Python
 
 Just testing stuff out
 
