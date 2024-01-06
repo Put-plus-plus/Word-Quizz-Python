@@ -2,10 +2,14 @@
 
 Just testing stuff out
 
-## Next headline 
+## Description 
 
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
 
-## Some other headline 
+## Dependencies
 
-Just testing this section as well
+Just testing stuff out
+
+## Execution
+
+Just testing stuff out
