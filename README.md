@@ -2,7 +2,10 @@
 
 Just testing stuff out
 
-# Next headline 
-
+## Next headline 
 
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
+
+## Some other headline 
+
+Just testing this section as well
