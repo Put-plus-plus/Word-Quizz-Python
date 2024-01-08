@@ -16,7 +16,7 @@ The `Glosary` class has an `initiate_glosary()` for creating an empty glossary, 
 Flashcards()
 # enter in GUI eg "https://www.bbc.com/ukrainian/features-66562788"
 # OUTPUT: something
-`
+```
 
 ## Animation - Learning Scientific Uk Example
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
