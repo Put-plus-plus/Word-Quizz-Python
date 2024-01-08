@@ -11,9 +11,9 @@ The `Glosary` class has an `initiate_glosary()` for creating an empty glossary, 
 * Python version 3.9.1
 * Pandas, random, tkinter, time, googletrans, transliterate, newspaper, numpy, os, logging
 
-## Execution - Learning Scientific Uk
+## Execution - Learning Scientific Uk Example
 Just testing stuff out
 is this how you do `code`
 
-## Animation - Learning Scientific Uk
+## Animation - Learning Scientific Uk Example
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
