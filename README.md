@@ -11,12 +11,16 @@ The `Glosary` class has an `initiate_glosary()` for creating an empty glossary, 
 * Python version 3.9.1
 * Pandas, random, tkinter, time, googletrans, transliterate, newspaper, numpy, os, logging
 
-## Execution - Learning Scientific Uk Example
+## Execution - Ukrainian word quizz example  
 ```python
-Flashcards()
-# enter in GUI eg "https://www.bbc.com/ukrainian/features-66562788"
-# OUTPUT: something
+from wordquizz import *
+
+bbc_article_language_name = 'Ukrainian'
+bbc_article_language_id = 'uk'    
+QuizzWindow(bbc_article_language_name, bbc_article_language_id)
+
+# enter into GUI: https://www.bbc.com/ukrainian/features-66562788
 ```
  
-## Animation - Learning Scientific Uk Example
+## Animation - Ukrainian word quizz example
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
