@@ -11,7 +11,7 @@ The `Glosary` class has an `initiate_glosary()` for creating an empty glossary, 
 * Python 3.9.1
 * pandas 1.2.2, numpy 1.22.2, logging 0.5.1.2, googletrans 4.0.0-rc.1, transliterate 1.10.2, newspaper 0.2.8, queue (built-in), threading (built-in), random (built-in), tkinter (built-in) 
 
-## Execution - Ukrainian word quizz example  
+## Execution - word quizz example  
 ```python
 from wordquizz import *
 
@@ -22,5 +22,5 @@ QuizzWindow(bbc_article_language_name, bbc_article_language_id)
 # enter into GUI: https://www.bbc.com/ukrainian/features-66562788
 ```
  
-## Animation - Ukrainian word quizz example
+## Animation - word quizz example
 remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
