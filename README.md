@@ -23,4 +23,5 @@ QuizzWindow(bbc_article_language_name, bbc_article_language_id)
 ```
  
 ## Animation - word quizz example
-remember to add the link to the GIF, which I must also make sure to add to the repo, see stackoverflow 
+https://github.com/Put-plus-plus/Word-Quizz-Python/assets/153921921/dad9689f-094c-442f-b042-451beb4cd966
+
